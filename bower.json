@@ -1,0 +1,12 @@
+{
+  "name": "oemera.io",
+  "version": "0.1.0",
+  "main": "index.html",
+  "ignore": [
+    ".gitignore"
+  ],
+  "dependencies": {
+    "bootstrap": "bootstrap"
+  },
+  "private": true
+}
