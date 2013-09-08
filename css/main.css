@@ -1,0 +1,47 @@
+body {
+	background-color: #00cc71;
+}
+.avatar {
+	text-align: center;
+	font-family: 'Railway', 'Helvetica Neue';
+	font-weight: 100;
+	color: #fff;
+
+	margin: auto;
+		position: absolute;
+		top:0; 
+		bottom:0; 
+		left:0; 
+		right:0;
+	margin:auto; 
+	height:385px; 
+}
+.avatar img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.avatar a {
+	color: white;
+	text-decoration:none;
+}
+.avatar a:hover {
+	color: black;
+}
+.avatar .name {
+	font-size: 40px;
+	margin-top: 15px;
+	margin-bottom: 10px;
+}
+.avatar .title {
+	font-size: 23px;
+	margin-top: 0px;
+}
+.avatar .social {
+	font-size: 35px;
+	margin-top: 30px;
+}
+.avatar .social .icon {
+	margin-left: 10px;
+	margin-right: 10px;
+}
